@@ -1,19 +1,125 @@
+<!-- Animated Header -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Burhan%20Uddin%20SK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=17" width="100%" alt="Animated profile header"/>
+
+<a href="https://github.com/uddinskb7-sys">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Burhan+Uddin+Sk+%F0%9F%91%8B;Building+with+Code+%26+Creativity;Exploring+LLMs%2C+ML+%26+Artificial+Intelligence;Learning+DSA+One+Problem+at+a+Time;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/> </a>
+
+<br/>
+
+
+\
+
+</div>
+
 <a target="_blank" href="https://img.ge/en/vIEbCWkGjYk2b5f"><img  src="https://img.ge/i/yZKqM45.png" alt="Neon AI Engineer Portfolio Banner (3).png"/></a>
 
-💫 About Me:
 
-I am currently a student in BCA 3rd year <br>Interested in AI learning<br>language learning : python, java, java script, html, C , C++, ML&AI, LLM ,node, CSS<br>Improving my   Data Structure & Algorithm skills<br>Building project to improve my practical skill<br>Goal: Become a skilled AI Engineer<br>My most used language is python<br>
+## 👨‍💻 About Me
 
+```python
+class Developer:
+    def __init__(self):
+        self.name = "BIURHAN Uddin SK"
+        self.username = "uddinskb7-sys"
+        self.languages = ["HTML", "CSS", "JavaScript", "Python"]
+        self.interests = ["LLMs", "DSA", "Machine Learning", "AI"]
+        self.mindset = "Learn • Build • Improve"
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/burhan01293) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/burha_n4629) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uddinskb7@gmail.com) 
+    def goal(self):
+        return "Building useful things with code and AI 🚀"
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=uddinskb7-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=uddinskb7-sys&theme=dark&hide_border=false)<br/>
+me = Developer()
+```
+
+* 🔭 Exploring web development and AI-powered applications.
+* 🧠 Learning Data Structures & Algorithms and Machine Learning.
+* 🤖 Interested in Large Language Models (LLMs) and Generative AI.
+* 💻 Building projects to turn ideas into working solutions.
+* 🌱 Always learning something new and improving my skills.
+* 🎯 Mission: **Code with purpose. Build with curiosity. Grow consistently.**
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript"/>
+
+### 🐍 Programming
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=C&theme=dark" alt="C"/>
+<img src="https://skillicons.dev/icons?i=C++&theme=dark" alt="C++"/>
+
+
+### 🤖 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-1D4ED8?style=for-the-badge&logo=probot&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/DSA-059669?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Data Structures and Algorithms"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=uddinskb7-sys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddinskb7-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=uddinskb7-sys&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/uddinskb7-sys/uddinskb7-sys/output/snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+| Area               | Goal                                        |
+| :----------------- | :------------------------------------------ |
+| 🌐 Web Development | Build responsive and interactive websites   |
+| 🧩 DSA             | Strengthen problem-solving skills           |
+| 🤖 LLMs            | Explore AI applications and language models |
+| 🧠 ML & AI         | Learn concepts and build practical projects |
+| 🚀 Projects        | Create useful, real-world solutions         |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/uddinskb7-sys">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+💬 Open to learning, collaborating, and building interesting projects!
+
+**⭐ If you like what I build, consider starring a repository!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
