@@ -54,8 +54,13 @@ me = Developer()
 ### 🐍 Programming
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=C&theme=dark" alt="C"/>
-<img src="https://skillicons.dev/icons?i=C++&theme=dark" alt="C++"/>
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C, C++"/>
+
+</div>
+
 
 
 ### 🤖 AI & Machine Learning
@@ -112,9 +117,22 @@ me = Developer()
 <a href="https://github.com/uddinskb7-sys">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+
+<a href="https://www.instagram.com/burha_n4422/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/Burhan Uddin Sk/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+<a href="https://facebook.com/Burhan Uddin Sk">
+  <img src="https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+</a>
+
+<br/><br/>
+
+**💻 GitHub:** `@uddinskb7-sys`
 
 💬 Open to learning, collaborating, and building interesting projects!
 
@@ -122,4 +140,7 @@ me = Developer()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Decorative footer"/>
 
+*Let's connect, collaborate, and build something amazing! 🚀*
+
 </div>
+
