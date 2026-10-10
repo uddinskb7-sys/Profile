@@ -10,7 +10,6 @@
 <br/>
 
 
-\
 
 </div>
 
@@ -83,16 +82,6 @@ me = Developer()
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddinskb7-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 <img width="95%" src="https://streak-stats.demolab.com?user=uddinskb7-sys&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/uddinskb7-sys/uddinskb7-sys/output/snake.svg" alt="GitHub contribution snake animation" width="100%"/>
 
 </div>
 
