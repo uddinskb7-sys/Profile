@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Burhan%20Uddin%20SK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=17" width="100%" alt="Animated profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:2563EB&height=220&section=header&text=Burhan%20Uddin%20SK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=17" width="100%" alt="Animated profile header"/>
 
 <a href="https://github.com/uddinskb7-sys">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Burhan+Uddin+Sk+%F0%9F%91%8B;Building+with+Code+%26+Creativity;Exploring+LLMs%2C+ML+%26+Artificial+Intelligence;Learning+DSA+One+Problem+at+a+Time;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG"/> </a>
@@ -127,7 +127,7 @@ me = Developer()
 
 **⭐ If you like what I build, consider starring a repository!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Decorative footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:10B981,100:8E0E00&height=120&section=footer" width="100%" alt="Decorative footer"/>
 
 *Let's connect, collaborate, and build something amazing! 🚀*
 
